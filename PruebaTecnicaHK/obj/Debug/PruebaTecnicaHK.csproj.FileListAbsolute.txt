@@ -1,0 +1,11 @@
+C:\Users\fcapo\OneDrive\Escritorio\archivos\PruebaTecnicaHK\PruebaTecnicaHK\bin\Debug\PruebaTecnicaHK.exe.config
+C:\Users\fcapo\OneDrive\Escritorio\archivos\PruebaTecnicaHK\PruebaTecnicaHK\bin\Debug\PruebaTecnicaHK.exe
+C:\Users\fcapo\OneDrive\Escritorio\archivos\PruebaTecnicaHK\PruebaTecnicaHK\bin\Debug\PruebaTecnicaHK.pdb
+C:\Users\fcapo\OneDrive\Escritorio\archivos\PruebaTecnicaHK\PruebaTecnicaHK\obj\Debug\PruebaTecnicaHK.csproj.AssemblyReference.cache
+C:\Users\fcapo\OneDrive\Escritorio\archivos\PruebaTecnicaHK\PruebaTecnicaHK\obj\Debug\PruebaTecnicaHK.csproj.SuggestedBindingRedirects.cache
+C:\Users\fcapo\OneDrive\Escritorio\archivos\PruebaTecnicaHK\PruebaTecnicaHK\obj\Debug\PruebaTecnicaHK.Form1.resources
+C:\Users\fcapo\OneDrive\Escritorio\archivos\PruebaTecnicaHK\PruebaTecnicaHK\obj\Debug\PruebaTecnicaHK.Properties.Resources.resources
+C:\Users\fcapo\OneDrive\Escritorio\archivos\PruebaTecnicaHK\PruebaTecnicaHK\obj\Debug\PruebaTecnicaHK.csproj.GenerateResource.cache
+C:\Users\fcapo\OneDrive\Escritorio\archivos\PruebaTecnicaHK\PruebaTecnicaHK\obj\Debug\PruebaTecnicaHK.csproj.CoreCompileInputs.cache
+C:\Users\fcapo\OneDrive\Escritorio\archivos\PruebaTecnicaHK\PruebaTecnicaHK\obj\Debug\PruebaTecnicaHK.exe
+C:\Users\fcapo\OneDrive\Escritorio\archivos\PruebaTecnicaHK\PruebaTecnicaHK\obj\Debug\PruebaTecnicaHK.pdb
